@@ -32,7 +32,7 @@ experience:
         * Collaborated with local farms to implement sequential testing in their bacteria testing procedures
         * Reduced required sample sizes up to 87%
         * Developed an interactive [R Shiny applet](https://kalari.shinyapps.io/SPRT/) that guides users through their statistical analysis
-        * Produced a [technical report](https://drive.google.com/file/d/17oS_lfHFSoTcfykpd8gyeUWNow-GFzjR/view?usp=sharing) that outlined statistical methodology, simulation results, and applied examples
+        * Produced a [technical report](https://drive.google.com/file/d/1TUeJkhX2tuO7torrmeWhVP0KJaZ0Ls-l/view?usp=sharing) that outlined statistical methodology, simulation results, and applied examples
         * [Presented](https://youtu.be/6Whvbzyly3k) research at the 2021 CSUMB Math/Stat Capstone Festival
         
   - title: Instructional Student Assistant
