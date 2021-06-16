@@ -44,7 +44,7 @@ title: Krissi Alari
 
 Krissina (Krissi) Alari is a graduate student in the Statistics MA program at [University of California, Berkeley](https://statistics.berkeley.edu/). Her interests include applications of Bayesian statistics, generalized linear modeling, machine learning, and data visualization.
 
-Previously, she attened [California State University, Monterey Bay](https://csumb.edu/math) where she majored in [mathematics](https://catalog.csumb.edu/preview_program.php?catoid=1&poid=91&returnto=54) and minored in [statistics](https://catalog.csumb.edu/preview_program.php?catoid=1&poid=144&returnto=54). Her [undergraduate research](https://doi.org/10.1080/1091367X.2020.1853130) focused on appliying Bayesian inference to frequentist analysis methods. She also has work experience in statistical consulting. Her projects utilized statistical methods to address concerns and answer research questions in agricultural and environmental studies.
+Previously, she attened [California State University, Monterey Bay](https://csumb.edu/math) where she majored in [mathematics](https://catalog.csumb.edu/preview_program.php?catoid=1&poid=91&returnto=54) and minored in [statistics](https://catalog.csumb.edu/preview_program.php?catoid=1&poid=144&returnto=54). Her [undergraduate research](https://doi.org/10.1080/1091367X.2020.1853130) focused on appliying Bayesian inference to frequentist methods for measurement comparison studies. She also has work experience in statistical consulting. Her projects utilized statistical methods to address concerns and answer research questions in agricultural and environmental studies.
 
 Outside of statistics and data science, Krissi also enjoys baking, yoga, and taking care of her succulent garden. 
 
