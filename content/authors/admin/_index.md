@@ -4,8 +4,8 @@ education:
   courses:
   - course: MA in Statistics
     institution: University of California, Berkeley
-    year: Expected 2022
-  - course: BS in Mathematics, Minor in Statistics
+    year: 2022
+  - course: BS in Mathematics, Statistics Minor
     institution: California State University, Monterey Bay
     year: 2021
   - course:  AS in Mathematics
