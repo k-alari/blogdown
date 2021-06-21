@@ -29,8 +29,7 @@ experience:
     date_start: '2021-01-01'
     date_end: '2021-05-01'
     description: |2-
-        * Collaborated with local farms to implement sequential testing in their bacteria testing procedures
-        * Reduced required sample sizes up to 87%
+        * Implemented sequential testing for bacteria testing procedures at local farms, which reduced sample sizes and improved efficiency up to 87%
         * Developed an interactive [R Shiny applet](https://kalari.shinyapps.io/SPRT/) that guides users through their statistical analysis
         * Produced a [technical report](https://drive.google.com/file/d/1TUeJkhX2tuO7torrmeWhVP0KJaZ0Ls-l/view?usp=sharing) that outlined statistical methodology, simulation results, and applied examples
         * [Presented](https://youtu.be/6Whvbzyly3k) research at the 2021 CSUMB Math/Stat Capstone Festival

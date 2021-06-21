@@ -48,4 +48,7 @@ Previously, she attened [California State University, Monterey Bay](https://csum
 
 Outside of statistics and data science, Krissi also enjoys baking, yoga, and taking care of her succulent garden. 
 
+{{< icon name="download" pack="fas" >}} Download her {{< staticref "media/KAlari_Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
+
 
