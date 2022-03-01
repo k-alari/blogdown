@@ -22,6 +22,16 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Data Science Consultant
+    company: D-Lab, UC Berkeley
+    company_url: ''
+    location: Berkeley, California
+    date_start: '2022-01-01'
+    date_end: ''
+    description: |2-
+        * Provides data science and statistics consulting to graduate students, visiting scholars, and UC Berkeley staff 
+        * Specializes in providing guidance in the areas of model selection, implementing cross validation, and statistical programming techniques
+        
   - title: Undergraduate Researcher
     company: California State University, Monterey Bay
     company_url: ''
